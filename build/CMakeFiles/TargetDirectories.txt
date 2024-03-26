@@ -1,6 +1,0 @@
-/home/rodoc/develop/glib/hello/build/CMakeFiles/my_first_program.dir
-/home/rodoc/develop/glib/hello/build/CMakeFiles/first_class.dir
-/home/rodoc/develop/glib/hello/build/CMakeFiles/property_demo.dir
-/home/rodoc/develop/glib/hello/build/CMakeFiles/cairo_sample.dir
-/home/rodoc/develop/glib/hello/build/CMakeFiles/edit_cache.dir
-/home/rodoc/develop/glib/hello/build/CMakeFiles/rebuild_cache.dir
